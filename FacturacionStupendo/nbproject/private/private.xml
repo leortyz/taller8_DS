@@ -2,6 +2,15 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/Moises/Desktop/taller8_DS/FacturacionStupendo/src/patronDecorator/ComprobanteDecorator.java</file>
+            <file>file:/C:/Users/Moises/Desktop/taller8_DS/FacturacionStupendo/src/principal/Main.java</file>
+            <file>file:/C:/Users/Moises/Desktop/taller8_DS/FacturacionStupendo/src/patronFactoryMethod/Creator.java</file>
+            <file>file:/C:/Users/Moises/Desktop/taller8_DS/FacturacionStupendo/src/patronStrategy/FacturacionElectronica.java</file>
+            <file>file:/C:/Users/Moises/Desktop/taller8_DS/FacturacionStupendo/src/patronFactoryMethod/Comprobante.java</file>
+            <file>file:/C:/Users/Moises/Desktop/taller8_DS/FacturacionStupendo/src/patronStrategy/FactruraOnline.java</file>
+            <file>file:/C:/Users/Moises/Desktop/taller8_DS/FacturacionStupendo/src/patronStrategy/FacturacionStrategy.java</file>
+            <file>file:/C:/Users/Moises/Desktop/taller8_DS/FacturacionStupendo/src/patronStrategy/FacturaOffline.java</file>
+        </group>
     </open-files>
 </project-private>
